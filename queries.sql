@@ -139,3 +139,5 @@ having
   count(b.booking_id) > 2;
 
 
+ERD diagram link
+https://drawsql.app/teams/team-5562/diagrams/a-3
